@@ -1,1 +1,1 @@
-# HydraVit
+# HydraViT
